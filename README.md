@@ -17,7 +17,7 @@ pip install requirements.txt
 
 ---
 
-#### Contributors
+#### Collaborators
 [Ian, Vazquez](https://github.com/iannv/)
 <br>
 [Mar, Octtinger](https://github.com/maroctt)
